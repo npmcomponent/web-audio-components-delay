@@ -3,7 +3,7 @@
  * Module depenencies.
  */
 
-var Filter = require("filter");
+var Filter = require('web-audio-components-filter');
 
 /**
  * Simple delay implementation for the Web Audio API.

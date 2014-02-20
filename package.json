@@ -1,0 +1,14 @@
+{
+  "name": "web-audio-components-delay",
+  "description": "A simple delay/echo effect module for the Web Audio API.",
+  "version": "0.0.9",
+  "keywords": [
+    "web-audio",
+    "delay",
+    "effect"
+  ],
+  "dependencies": {
+    "web-audio-components-filter": "git://github.com/npmcomponent/web-audio-components-filter.git"
+  },
+  "license": "MIT"
+}
